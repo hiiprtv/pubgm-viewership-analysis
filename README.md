@@ -36,7 +36,7 @@ Beyond just "view counts," I analyzed over 100 top comments from the most popula
 
 ---
 
-## 🚀 Future-Ready Angle
+##  Future-Ready Angle
 By integrating sentiment analysis, this project demonstrates the ability to handle **unstructured data** (text), a critical skill for modern sports analysts. The next phase involves correlating specific map events (e.g., final circle closures) with real-time sentiment spikes.
 
 ---  
